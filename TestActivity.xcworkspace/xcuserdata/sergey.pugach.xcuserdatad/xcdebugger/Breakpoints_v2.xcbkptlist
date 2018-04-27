@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Alamofire/Source/Request.swift"
+            timestampString = "546432299.241783"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "resume()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Moya/Sources/Moya/MoyaProvider+Internal.swift"
+            timestampString = "546432673.847928"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "sendRequest(_:request:callbackQueue:progress:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Moya.MoyaProvider.(sendRequest in _29224DEABDDE279B92464CA1BE771359)(A, request: Foundation.URLRequest, callbackQueue: Swift.Optional&lt;__ObjC.DispatchQueue&gt;, progress: Swift.Optional&lt;(Moya.ProgressResponse) -&gt; ()&gt;, completion: (Result.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; ()) -&gt; Moya.CancellableToken"
+                  moduleName = "Moya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergey.pugach/Xcode-projects/TestActivity/Pods/Moya/Sources/Moya/MoyaProvider+Internal.swift"
+                  timestampString = "546432674.2802089"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Moya.MoyaProvider.(sendRequest in _29224DEABDDE279B92464CA1BE771359)(A, request: Foundation.URLRequest, callbackQueue: Swift.Optional&lt;__ObjC.DispatchQueue&gt;, progress: Swift.Optional&lt;(Moya.ProgressResponse) -&gt; ()&gt;, completion: (Result.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; ()) -&gt; Moya.CancellableToken"
+                  moduleName = "Moya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergey.pugach/Xcode-projects/TestActivity/Pods/Moya/Sources/Moya/MoyaProvider+Internal.swift"
+                  timestampString = "546432676.472888"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Moya/Sources/Moya/MoyaProvider+Internal.swift"
+            timestampString = "546432673.848376"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "sendAlamofireRequest(_:target:callbackQueue:progress:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Moya.MoyaProvider.(sendAlamofireRequest in _29224DEABDDE279B92464CA1BE771359)&lt;A where A1: Alamofire.Request, A1: Moya.Requestable&gt;(A1, target: A, callbackQueue: Swift.Optional&lt;__ObjC.DispatchQueue&gt;, progress: Swift.Optional&lt;(Moya.ProgressResponse) -&gt; ()&gt;, completion: (Result.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; ()) -&gt; Moya.CancellableToken"
+                  moduleName = "Moya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergey.pugach/Xcode-projects/TestActivity/Pods/Moya/Sources/Moya/MoyaProvider+Internal.swift"
+                  timestampString = "546432674.287671"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "87">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Moya.MoyaProvider.(sendAlamofireRequest in _29224DEABDDE279B92464CA1BE771359)&lt;A where A1: Alamofire.Request, A1: Moya.Requestable&gt;(A1, target: A, callbackQueue: Swift.Optional&lt;__ObjC.DispatchQueue&gt;, progress: Swift.Optional&lt;(Moya.ProgressResponse) -&gt; ()&gt;, completion: (Result.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; ()) -&gt; Moya.CancellableToken"
+                  moduleName = "Moya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergey.pugach/Xcode-projects/TestActivity/Pods/Moya/Sources/Moya/MoyaProvider+Internal.swift"
+                  timestampString = "546432676.4774801"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
